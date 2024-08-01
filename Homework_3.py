@@ -120,10 +120,10 @@
 # Problem 8: Pattern Printing
 # Write a program that takes an integer 'n' as input and prints the following pattern using nested for loops:
 # Expected output for input “5”:
-n = 5
-for i in range(n):
-   for j in range(i):
-       print(range(n))
+# n = 5
+# for i in range(n):
+#    for j in range(i):
+#        print(range(n))
 # 1
 # 12
 # 123
